@@ -28,5 +28,7 @@ These shallow (simple?) REF-Links illustrate why Obsidian.app *requires* the con
 
 The 'vault' serves as the equivalent of an Apache DocumentRoot.
 
+Right?
+
 
 
